@@ -1,9 +1,20 @@
 DATA DICTIONARY - tidy.txt data set
 
-Variable	              		Description
-subject                     1 of 30 volunteers within an age bracket of 19-48 years
-activity										1 WALKING 2 WALKING_UPSTAIRS 3 WALKING_DOWNSTAIRS 4 SITTING 5 STANDING 6 LAYING
-tbodyaccmeanx  	            acceleration of the body on the x axis (time domain) of the phone (mean)
+Variable
+
+subject                     
+  1 of 30 volunteers within an age bracket of 19-48 years
+  
+activity										
+  1 WALKING 
+  2 WALKING_UPSTAIRS 
+  3 WALKING_DOWNSTAIRS 
+  4 SITTING 
+  5 STANDING 
+  6 LAYING
+  
+tbodyaccmeanx  	            
+  acceleration of the body on the x axis (time domain) of the phone (mean)
 tbodyaccmeany  	            acceleration of the body on the y axis (time domain) of the phone (mean)
 tbodyaccmeanz  	            acceleration of the body on the z axis (time domain) of the phone (mean)
 tbodyaccstdx  	            acceleration of the body on the x axis (time domain) of the phone (std)
